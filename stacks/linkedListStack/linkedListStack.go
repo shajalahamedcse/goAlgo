@@ -21,7 +21,7 @@ with this distribution for more information.
 Implementation of stack using a singly linked list
 */
 
-package stack
+package linkedListStack
 
 type Stack struct {
 	size int
